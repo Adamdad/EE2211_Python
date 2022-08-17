@@ -8,11 +8,11 @@ Please first following the Handout book to install the anaconda/miniconda, then 
     conda create --name ee2211 python=3.7 numpy=1.20 matplotlib scikit-learn pandas jupyterlab
 
 
-1. **Python and Numpy Basic**
+1. **Python and Numpy Basics**
 
         EE2211_python_demo.ipynb
 
-2.  **Classification** We provides toy example to conduct a binary classification problem with multi-layer perceptron.
+2.  **Classification** We provides a toy example to conduct a binary classification problem with multi-layer perceptron(MLP).
 
         classification.ipynb
 
